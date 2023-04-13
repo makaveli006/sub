@@ -13,6 +13,7 @@ Sammy no longer has the balloon; it flew away. Let’s change the substring "has
 balloon = "Sammy has a balloon"
 puts balloon.sub("has","had")
 
+
 =begin
 The sub method only replaces the first occurrence of the match with the new text. Let’s use a modified string that has two occurrences of the word has:
 
