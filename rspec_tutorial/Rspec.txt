@@ -1,0 +1,4 @@
+1.Rspec is a testing framework
+2. bundle init =>to generate Gemfile
+3. bundle binstubs rspec-core
+4. bin/rspec --init

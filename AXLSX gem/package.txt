@@ -1,0 +1,2 @@
+A package is an organized collection of classes which is included in the program as per the requirement of the program. 
+For example java.io package is included for input and output operations in a program.

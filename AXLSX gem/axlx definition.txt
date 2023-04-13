@@ -1,0 +1,16 @@
+Axlsx is an Office Open XML Spreadsheet generator for the Ruby programming language.
+With Axlsx you can create excel worksheets with charts, images (with links),
+automated and fixed column widths, customized styles, functions, tables,
+conditional formatting, print options, comments, merged cells, auto filters,
+file and stream serialization as well as full schema validation.
+Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification.
+
+*Libre Office
+
+You must specify colors for your series. see examples/chart_colors.rb for an example.
+You must use data in your sheet for charts. You cannot use hard coded values.
+Chart axis and gridlines do not render. I have a feeling this is related to themes, which axlsx does not implement at this time.
+*Google Docs
+
+Images are known to not work with google docs
+border colors do not work

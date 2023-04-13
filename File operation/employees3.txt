@@ -1,0 +1,8 @@
+Jim, Sales
+Andy, Sales
+Kelly, Customer Service
+Creed, Quality Assurance
+Michael, ManagerOscar, Accounting
+Oscar, Accounting
+Oscar, Accounting
+Oscar, AccountingOscar, Accounting
